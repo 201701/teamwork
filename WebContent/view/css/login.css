@@ -1,0 +1,131 @@
+		body{
+			margin:0;
+			padding:0;
+			background-image: url(../img/背景3.jpg);
+			background-position: 100% 100%;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+		}
+		.div1{
+			margin:0 auto;
+		    padding:0px;
+		    width:100%;
+		    height:100%;	
+		    /*height: 710px;*/		   
+		}
+		.div2_1{
+			width:100%;
+			height:140px;
+			background-color: rgb(57,61,73,0.9);
+		}
+		.div2_2{
+			margin: 70px auto;
+			background-color: rgb(255,255,255,0.9);
+			width:40%;
+			/*height:50%;*/
+			height:auto;
+			border-radius: 80px;
+		}
+		.div3_1{
+			margin:0;
+			padding:0;
+			width:80px;
+			height:80px;
+			float:left;
+		}
+		.div3_2{
+			margin: 35px 0 0 60px;
+			padding:0px;
+			float:left;
+			color:#FFF;
+			font-size:40px;
+			font-family: -apple-system,BlinkMacSystemFont,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Helvetica Neue",Helvetica,Arial,sans-serif;;
+		}
+		#errspan{
+			text-align: center;
+			font-size: 14px;
+			color: red;
+		
+		}
+		/*img{
+			width:100%;
+			height:100%;
+			margin:0;
+			padding:0;
+			position: absolute;
+			background-position: 100% 100%;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			min-width: 1000px;
+			z-index: -1;
+			opacity:0.8;
+		}*/
+		a{
+			text-decoration: none;
+			cursor:default;
+			color:lightsalmon;
+		}
+		.table1{
+			padding:10px 50px 30px ;
+			width:500px;
+			height:260px;
+			text-align:center;
+			table-layout:fixed ; 
+		}
+		.table2{
+			
+			padding:10px 50px ;
+			width:350px;
+			height:75px;
+			text-align:center;
+			table-layout:fixed ; 
+		}
+		
+		.time{
+			font-size: 20px;
+			padding: 80px;
+			float: right;
+			padding: 100px 50px;
+			color: #FFF;
+		}
+		.put{
+			padding: 20px 10px;
+			width: 500px;
+			/*height: 200px;*/
+			text-align: center;
+			table-layout: fixed;
+		}
+		.td1{
+			text-align:right; 
+			font-size: 20px;
+		}
+		.in1{
+			width:167px;
+			height: 25px; 
+			border-radius: 7px;
+			text-align: center;
+			font-size: 15px;
+		}
+		.in2{
+			border-radius: 10px; 
+			float: left; 
+			width:105px; 
+			height:35px;
+			color: lightsalmon;
+			font-size: 15px;
+			font-weight: bolder;
+			position: absolute;
+			left: 595px;
+		}
+		.in3{
+			border-radius: 10px; 
+			width:125px; 
+			height:40px;
+			color: white;
+			font-size: 17px;
+			font-weight: bolder;
+			background-color: #3c404b;
+			opacity: 0.8;
+		}

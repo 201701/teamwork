@@ -1,0 +1,237 @@
+		body{
+			margin:0;
+			padding:0;
+			background-position: 100% 100%;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+
+		}
+		.div1{
+			margin:0 auto;
+		    padding:0px;
+		    width:100%;
+		    height:720px;			   
+		}
+		.div2_1{
+			width:100%;
+			height:140px;
+			background-color: rgb(57,61,73,0.9);
+		}
+		.div2_2{
+			margin: 70px auto;
+			background-color: rgb(255,255,255,0.9);
+			width:40%;
+			height:50%;
+			border-radius: 80px;
+		}
+		.div3_1{
+			margin:0;
+			padding:0;
+			width:80px;
+			height:80px;
+			float:left;
+		}
+		.div3_2{
+			margin: 35px 0 0 60px;
+			padding:0px;
+			float:left;
+			color:#FFF;
+			font-size:40px;
+			font-family: -apple-system,BlinkMacSystemFont,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Helvetica Neue",Helvetica,Arial,sans-serif;;
+		}
+		.sign{
+			float: left;
+			/*width: 90px;*/
+			width: 40%;
+			height: 35px;
+			margin: 0px 0px 0px 15px;
+			border-radius: 20px;
+			font-size: 16px;
+			font-weight: bold;
+			color: #0e50a5;
+		}
+		.yisign{
+			float: left;
+			width: 40%;
+			height: 35px;
+			margin: 0px 0px 0px 15px;
+			border-radius: 20px;
+			font-size: 16px;
+			font-weight: bold;
+			color: #615f5f;
+		}
+		.jia{
+			float: right;
+			/*width: 90px;*/
+			width: 40%;
+			height: 35px;
+			margin: 0px 15px 0px 5px;
+			border-radius: 20px;
+			font-size: 16px;
+			font-weight: bold;
+			color: #0e50a5;
+		}
+		.njia{
+			float: right;
+			/*width: 90px;*/
+			width: 40%;
+			height: 35px;
+			margin: 0px 15px 0px 5px;
+			border-radius: 20px;
+			font-size: 16px;
+			font-weight: bold;
+			color: #615f5f;
+		}
+		.a1{
+			text-decoration: none;
+			color:white;
+		}
+		.a2{
+			text-decoration: none;
+			color:#0e50a5;
+		}
+		.a3{
+			text-decoration: none;
+			color:#615f5f;
+		}
+		.a4{
+			text-decoration: none;
+			color:#615f5f;
+		}
+		.a1:hover{
+			color: #0e0e85;
+		}
+		.a2:hover{
+			color: #0e0e85;
+		}
+		
+		.back{
+			background-color: lightgrey;
+			width: 80%;
+			height: 582px;
+			margin: 0 auto;
+			opacity: 0.8;
+		}
+		.zuo{
+			width: 29%;
+			float: left;
+		}
+		.left{
+			display: inline-block;
+			/*float: left;*/
+			/*width: 325px;*/
+			width: 90%;
+			height: 189px;
+			margin: 45px 0px 40px 30px;
+			padding: 20px;
+			background-color: white;
+			border-radius: 70px;
+		}
+		.right{
+			display: inline;
+			float: right;
+			/*width: 683px;*/
+			width: 59%;
+			height:79%;
+			margin: 40px 30px 0px 35px;
+			padding: 20px;
+			background-color: white;
+			border-radius: 70px;
+		}
+		.biao{
+			height: 70px;
+			font-size: 30px;
+			text-align: center;
+		}
+		.bottom{
+			display: inline-block;
+			/*float: left;*/
+			/*width: 325px;*/
+			width: 90%;
+			height: 185px;
+			margin: 0px 0px 0px 30px;
+			padding: 20px;
+			background-color: white;
+			border-radius: 70px;
+		}
+		.time{
+			width: 300px;
+			height: 100px;
+			font-size: 37px;
+			margin: 45px 0px 15px 0px;
+		}
+		.welcom{
+			/*width: 200px;*/
+			width: 15%;
+			font-size: 20px;
+			padding: 80px;
+			float: right;
+			padding: 100px 50px 10px;
+			color: #FFF;
+		}
+		.content{
+			/*width: 328px;*/
+			width: 100%;
+			height: 180px;
+			text-align: center;
+		}
+		.boxtext{
+			text-align: center;
+		}
+		.td1{
+			text-align:right; 
+			font-size: 20px;
+		}
+		.table1{
+			float: left;
+			padding:10px 0px 10px 33px ;
+			margin: 10px auto;
+			height:170px;
+			text-align:center;
+			table-layout:fixed ; 
+		}
+		.in1{
+			/*width:175px;*/
+			/*width:50%;
+			height: 30px; 
+			border-radius: 7px;*/
+			text-align: center;
+			/*margin: 45px 10px 10px 0px;*/
+			margin: auto 15px;
+			/*float: right;*/
+			font-size: 22px;
+		}
+		.in2{
+			/*width:175px;*/
+			/*width:50%;
+			height: 30px; 
+			border-radius: 7px;*/
+			text-align: center;
+			/*margin: 33px 10px 10px 0px;*/
+			margin: auto 15px;
+			/*float: right;*/
+			font-size:22px;
+		}
+		
+		.qian{
+			/*padding-top: 50px;*/
+		}
+		.table2{
+			border: 1px solid #FFFFFF;
+			background-color: #e4e4e4;
+			text-align: center;
+			margin: 0 auto;
+			/*width: 680px;*/
+			width: 100%;
+		}
+		.th{
+			border:1px solid #FFFFFF;
+			width: 145px;
+			height: 30px;
+		}
+		.td{
+			border:1px solid #FFFFFF;
+		}
+		
+

@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/manager_leavelist.jsp=UTF-8
+encoding//WebContent/view/signRecordList.jsp=UTF-8
+encoding//WebContent/view/test.jsp=UTF-8
+encoding//WebContent/view/userSign.jsp=UTF-8
+encoding//src/controller/Servlet.java=UTF-8
+encoding//src/dao/SignListDao.java=UTF-8
+encoding//src/dao/SignRecordDao2.java=UTF-8
+encoding//src/dao/UserDao.java=UTF-8
+encoding//src/serviceImpl/SignRecordServiceImpl.java=UTF-8
+encoding//src/serviceImpl/UserServiceImpl.java=UTF-8
+encoding//src/util/DbConn.java=UTF-8
+encoding/<project>=GBK
